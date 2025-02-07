@@ -1,2 +1,2 @@
-This repository contains the slidedeck, SPSS syntax, R code, and datasets used in the Open Lab series titled "SO, YOU WANT TO CREATE
-A SURVEY: TESTING VALIDITY AND INTERNAL CONSISTENCY", presented in February 2025
+This repository contains the slidedeck, SPSS syntax, R code, and datasets used in the Open Lab series titled "So, you Want to Create
+a Survey: Testing Validity and Internal Consistency", presented in February 2025
